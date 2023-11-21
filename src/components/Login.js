@@ -30,7 +30,7 @@ const Login = () => {
           // Signed up 
           const user = userCredential.user;
           console.log(user)
-          navigate("/Browse")
+          // navigate("/Browse")
           // ...
         })
         .catch((error) => {
@@ -48,7 +48,7 @@ const Login = () => {
           // Signed in 
           const user = userCredential.user;
           console.log(user)
-          navigate("/Browse")
+          // navigate("/Browse")
           // ...
         })
         .catch((error) => {
