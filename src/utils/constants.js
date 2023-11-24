@@ -8,3 +8,4 @@ export const API_OPTIONS = {
 }
 
 export const IMG_CDN = "https://image.tmdb.org/t/p/w500/"
+export const OPENAI_KEY="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"
